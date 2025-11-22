@@ -1,0 +1,2 @@
+# LOGUROKU_introduction
+Flutter・Firebase を用いて日記を成長マップ化するアプリ「LOGROKU」の、機能概要と担当領域をまとめたポートフォリオ用リポジトリです。
