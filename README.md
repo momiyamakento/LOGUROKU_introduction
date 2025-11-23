@@ -68,7 +68,7 @@ After（LOGROKU使用後）
 
 ---
 
-## 📄 LOGROKU 紹介スライド（PDF）
-[LOGROKU Presentation ver1.0](./LOGROKU.pdf)
+## 📄 LOGROKU 紹介スライド
+https://github.com/momiyamakento/LOGUROKU_introduction/blob/main/LOGROKU.pdf
 
 
