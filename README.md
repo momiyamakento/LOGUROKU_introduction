@@ -68,5 +68,7 @@ After（LOGROKU使用後）
 
 ---
 
-## 🔗 関連資料
+## 📄 LOGROKU 紹介スライド（PDF）
+[LOGROKU Presentation ver1.0](./LOGROKU.pdf)
+
 
