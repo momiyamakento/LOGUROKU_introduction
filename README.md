@@ -19,7 +19,6 @@ LOGROKU は、毎日の生活を記録した「日記」を自動で **すごろ
 
 - AI の提案に従い続けると、思考機会が減少し意思決定力が低下する  
 - 判断基準を持てず、流されやすくなる  
-（p4–5） :contentReference[oaicite:5]{index=5}
 
 ➡ LOGROKU は、日記・振り返り・比較を通じて「自分の軸」を育てます。
 
@@ -33,57 +32,41 @@ Before
 After（LOGROKU使用後）  
 - 自分を客観視でき、自己理解が向上  
 - AIに流されず、自分の軸で意思決定できる  
-（p11） :contentReference[oaicite:6]{index=6}
 
 ---
 
-## 🎮 主な機能（開発中）
+## 🎮 主な機能
 - 日記をすごろく形式に自動変換  
-- マスを進めながら日記を振り返る体験  
+- マスを進めながらスゴロク形式で楽しく日記を振り返る
+- 友達と日記を共有 
 - 友達の日記と比較し、新しい視点を得る  
-（p8–9）  
-- AI分析による簡易スコアリング（構想）
 
 ---
 
 ## 🧩 使用技術
 - Flutter / Dart  
-- Firebase Authentication / Firestore  
-- Cloud Functions  
-- Riverpod  
+- Firebase Authentication / Firestore   
 - Python（分析）  
 - Figma（UI/UX設計）
+- Miro (タスク、スケジュール管理)
 
 ---
 
-## 👤 私の担当範囲
-- UI/UX デザイン（Figmaで画面・UXフロー作成）  
-- Firestore のスキーマ設計  
-- Firebase Authentication の導入  
-- 日記→すごろく変換ロジックの一部  
-- PM / スプリント管理（WBS・仕様調整）  
-
+## 👤 私の役割
+- チームのサブリーダー
+- チームメンバーのタスク、スケジュール管理
+- 企画、設計
+- フロントエンド開発     
 ---
 
-## 🏛 アーキテクチャ
-（画像推奨）
+## 🎨 サービス紹介（α版開発中）
+<img width="499" height="907" alt="スクリーンショット 2025-11-23 174734" src="https://github.com/user-attachments/assets/93d8f274-e560-4875-af77-9ea1c0bb95e6" />
+<img width="497" height="907" alt="スクリーンショット 2025-11-23 174840" src="https://github.com/user-attachments/assets/45a1c3d2-e494-4e8f-94d2-a963e2935696" />
+<img width="499" height="908" alt="スクリーンショット 2025-11-23 174900" src="https://github.com/user-attachments/assets/3e10fb68-7e22-4d80-8901-5897757ef7f7" />
 
-Flutter  
-↓  
-Firebase Auth  
-↓  
-Cloud Firestore  
-↓  
-Cloud Functions（すごろく生成処理）
 
----
-
-## 🎨 UIイメージ（プロトタイプ）
-（Figma のスクショを貼る）
 
 ---
 
 ## 🔗 関連資料
-- 成果発表スライド（ver1.0） （ファイル）  
-- 本番レポジトリ（Private）  
-- 企画書 / UX資料（任意）  
+
