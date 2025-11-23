@@ -60,9 +60,9 @@ After（LOGROKU使用後）
 ---
 
 ## 🎨 サービス紹介（α版開発中）
-<img width="499" height="907" alt="スクリーンショット 2025-11-23 174734" src="https://github.com/user-attachments/assets/93d8f274-e560-4875-af77-9ea1c0bb95e6" />
-<img width="497" height="907" alt="スクリーンショット 2025-11-23 174840" src="https://github.com/user-attachments/assets/45a1c3d2-e494-4e8f-94d2-a963e2935696" />
-<img width="499" height="908" alt="スクリーンショット 2025-11-23 174900" src="https://github.com/user-attachments/assets/3e10fb68-7e22-4d80-8901-5897757ef7f7" />
+<img width="250" height="450" alt="スクリーンショット 2025-11-23 174734" src="https://github.com/user-attachments/assets/93d8f274-e560-4875-af77-9ea1c0bb95e6" />
+<img width="250" height="450" alt="スクリーンショット 2025-11-23 174840" src="https://github.com/user-attachments/assets/45a1c3d2-e494-4e8f-94d2-a963e2935696" />
+<img width="250" height="450" alt="スクリーンショット 2025-11-23 174900" src="https://github.com/user-attachments/assets/3e10fb68-7e22-4d80-8901-5897757ef7f7" />
 
 
 
